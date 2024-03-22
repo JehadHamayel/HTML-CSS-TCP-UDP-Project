@@ -1,0 +1,51 @@
+h1.class1, h1.class2{
+    display: inline;
+    
+}
+div.row1{
+    text-align: center;
+}
+div.imRow{
+    text-align: center;
+    border: 10px solid black;
+    background-color: bisque;
+}
+img{
+    border: 3px solid black;
+}
+
+a{
+    font-size: 30px;
+    justify-content: center;
+}
+h1.class2{
+    color: red;   
+}
+div.row{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+    
+    
+}
+
+div.d1{
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    border: 3px solid black;
+    padding: 20px;
+    background-color: rgb(219, 219, 219);
+}
+div.d2{
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    border: 3px solid black;
+    padding: 20px;
+    background-color: rgb(0, 255, 0);
+}
+
+
